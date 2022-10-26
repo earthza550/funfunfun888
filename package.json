@@ -1,0 +1,17 @@
+{
+  "name": "funfunfun888",
+  "theme": "syntax",
+  "version": "1.0.2",
+  "description": "ทํานายฝัน แก้ฝัน แปล ความฝัน เลขเด็ด จากความฝัน แม่นๆ แห่งปี 2022",
+  "keywords": [
+    "ทำนายฝัน",
+    "แก้ฝัน",
+    "แปลความฝัน",
+    "เลขเด็ดจากความฝัน"
+  ],
+  "repository": "https://github.com/earthza550/funfunfun888",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
